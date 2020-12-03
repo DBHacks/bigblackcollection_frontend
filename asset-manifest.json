@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/bigblackcollection_frontend/static/css/main.d087e2ff.chunk.css",
-    "main.js": "/bigblackcollection_frontend/static/js/main.b92048ff.chunk.js",
-    "main.js.map": "/bigblackcollection_frontend/static/js/main.b92048ff.chunk.js.map",
+    "main.js": "/bigblackcollection_frontend/static/js/main.09a4943a.chunk.js",
+    "main.js.map": "/bigblackcollection_frontend/static/js/main.09a4943a.chunk.js.map",
     "runtime-main.js": "/bigblackcollection_frontend/static/js/runtime-main.15041ab2.js",
     "runtime-main.js.map": "/bigblackcollection_frontend/static/js/runtime-main.15041ab2.js.map",
     "static/css/2.1a02f21c.chunk.css": "/bigblackcollection_frontend/static/css/2.1a02f21c.chunk.css",
-    "static/js/2.3f3f9b5e.chunk.js": "/bigblackcollection_frontend/static/js/2.3f3f9b5e.chunk.js",
-    "static/js/2.3f3f9b5e.chunk.js.map": "/bigblackcollection_frontend/static/js/2.3f3f9b5e.chunk.js.map",
+    "static/js/2.5e0e34a6.chunk.js": "/bigblackcollection_frontend/static/js/2.5e0e34a6.chunk.js",
+    "static/js/2.5e0e34a6.chunk.js.map": "/bigblackcollection_frontend/static/js/2.5e0e34a6.chunk.js.map",
     "static/js/3.730050fb.chunk.js": "/bigblackcollection_frontend/static/js/3.730050fb.chunk.js",
     "static/js/3.730050fb.chunk.js.map": "/bigblackcollection_frontend/static/js/3.730050fb.chunk.js.map",
     "index.html": "/bigblackcollection_frontend/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/bigblackcollection_frontend/static/css/2.1a02f21c.chunk.css.map",
     "static/css/main.d087e2ff.chunk.css.map": "/bigblackcollection_frontend/static/css/main.d087e2ff.chunk.css.map",
-    "static/js/2.3f3f9b5e.chunk.js.LICENSE.txt": "/bigblackcollection_frontend/static/js/2.3f3f9b5e.chunk.js.LICENSE.txt",
+    "static/js/2.5e0e34a6.chunk.js.LICENSE.txt": "/bigblackcollection_frontend/static/js/2.5e0e34a6.chunk.js.LICENSE.txt",
     "static/media/logo.103b5fa1.svg": "/bigblackcollection_frontend/static/media/logo.103b5fa1.svg",
     "static/media/logorus.afa6e10e.png": "/bigblackcollection_frontend/static/media/logorus.afa6e10e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.15041ab2.js",
     "static/css/2.1a02f21c.chunk.css",
-    "static/js/2.3f3f9b5e.chunk.js",
+    "static/js/2.5e0e34a6.chunk.js",
     "static/css/main.d087e2ff.chunk.css",
-    "static/js/main.b92048ff.chunk.js"
+    "static/js/main.09a4943a.chunk.js"
   ]
 }
