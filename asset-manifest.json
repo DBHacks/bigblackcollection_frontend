@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bigblackcollection_frontend/static/css/main.d087e2ff.chunk.css",
-    "main.js": "/bigblackcollection_frontend/static/js/main.cd457790.chunk.js",
-    "main.js.map": "/bigblackcollection_frontend/static/js/main.cd457790.chunk.js.map",
+    "main.js": "/bigblackcollection_frontend/static/js/main.efca39c2.chunk.js",
+    "main.js.map": "/bigblackcollection_frontend/static/js/main.efca39c2.chunk.js.map",
     "runtime-main.js": "/bigblackcollection_frontend/static/js/runtime-main.3b2345c6.js",
     "runtime-main.js.map": "/bigblackcollection_frontend/static/js/runtime-main.3b2345c6.js.map",
     "static/css/2.1a02f21c.chunk.css": "/bigblackcollection_frontend/static/css/2.1a02f21c.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.35ebedd9.chunk.js",
     "static/css/main.d087e2ff.chunk.css",
-    "static/js/main.cd457790.chunk.js"
+    "static/js/main.efca39c2.chunk.js"
   ]
 }
