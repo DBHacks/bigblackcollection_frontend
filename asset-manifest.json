@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/bigblackcollection_frontend/static/css/main.d087e2ff.chunk.css",
-    "main.js": "/bigblackcollection_frontend/static/js/main.267b00a8.chunk.js",
-    "main.js.map": "/bigblackcollection_frontend/static/js/main.267b00a8.chunk.js.map",
-    "runtime-main.js": "/bigblackcollection_frontend/static/js/runtime-main.7dd117ec.js",
-    "runtime-main.js.map": "/bigblackcollection_frontend/static/js/runtime-main.7dd117ec.js.map",
+    "main.css": "/bigblackcollection_frontend/static/css/main.b89f7293.chunk.css",
+    "main.js": "/bigblackcollection_frontend/static/js/main.d8b7082d.chunk.js",
+    "main.js.map": "/bigblackcollection_frontend/static/js/main.d8b7082d.chunk.js.map",
+    "runtime-main.js": "/bigblackcollection_frontend/static/js/runtime-main.24badb90.js",
+    "runtime-main.js.map": "/bigblackcollection_frontend/static/js/runtime-main.24badb90.js.map",
     "static/css/2.1a02f21c.chunk.css": "/bigblackcollection_frontend/static/css/2.1a02f21c.chunk.css",
-    "static/js/2.73471b72.chunk.js": "/bigblackcollection_frontend/static/js/2.73471b72.chunk.js",
-    "static/js/2.73471b72.chunk.js.map": "/bigblackcollection_frontend/static/js/2.73471b72.chunk.js.map",
-    "static/js/3.026d1fec.chunk.js": "/bigblackcollection_frontend/static/js/3.026d1fec.chunk.js",
-    "static/js/3.026d1fec.chunk.js.map": "/bigblackcollection_frontend/static/js/3.026d1fec.chunk.js.map",
+    "static/js/2.6ea5b98b.chunk.js": "/bigblackcollection_frontend/static/js/2.6ea5b98b.chunk.js",
+    "static/js/2.6ea5b98b.chunk.js.map": "/bigblackcollection_frontend/static/js/2.6ea5b98b.chunk.js.map",
+    "static/js/3.cc474a2d.chunk.js": "/bigblackcollection_frontend/static/js/3.cc474a2d.chunk.js",
+    "static/js/3.cc474a2d.chunk.js.map": "/bigblackcollection_frontend/static/js/3.cc474a2d.chunk.js.map",
     "index.html": "/bigblackcollection_frontend/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/bigblackcollection_frontend/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.d087e2ff.chunk.css.map": "/bigblackcollection_frontend/static/css/main.d087e2ff.chunk.css.map",
-    "static/js/2.73471b72.chunk.js.LICENSE.txt": "/bigblackcollection_frontend/static/js/2.73471b72.chunk.js.LICENSE.txt",
+    "static/css/main.b89f7293.chunk.css.map": "/bigblackcollection_frontend/static/css/main.b89f7293.chunk.css.map",
+    "static/js/2.6ea5b98b.chunk.js.LICENSE.txt": "/bigblackcollection_frontend/static/js/2.6ea5b98b.chunk.js.LICENSE.txt",
     "static/media/logo.103b5fa1.svg": "/bigblackcollection_frontend/static/media/logo.103b5fa1.svg",
     "static/media/logorus.afa6e10e.png": "/bigblackcollection_frontend/static/media/logorus.afa6e10e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7dd117ec.js",
+    "static/js/runtime-main.24badb90.js",
     "static/css/2.1a02f21c.chunk.css",
-    "static/js/2.73471b72.chunk.js",
-    "static/css/main.d087e2ff.chunk.css",
-    "static/js/main.267b00a8.chunk.js"
+    "static/js/2.6ea5b98b.chunk.js",
+    "static/css/main.b89f7293.chunk.css",
+    "static/js/main.d8b7082d.chunk.js"
   ]
 }
