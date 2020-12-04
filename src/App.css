@@ -14,14 +14,41 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  /* background-color: #282c34; */
+  /* min-height: 100vh; */
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.LoadingTask{
+  color: white;
+  font-size: calc(10px + 2vmin);
+  align-items: center;
+  justify-content: center;
+  
+  
+  
+
+
+}
+
+
+.Cart-header{
+  background-color: #282c34;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: top;
+  justify-content: top;
+  
+  color: white;
+  
+
+
 }
 
 .App-link {
@@ -48,9 +75,9 @@
 }
 
 
-.Cart{
-  
-
-
-
+.Purchase-cart {
+  margin-top: 10px;
+  width: 380px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 1em;
 }

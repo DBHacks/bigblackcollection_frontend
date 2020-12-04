@@ -21,14 +21,28 @@ import './App.css';
 //const HomePage = () => <div><h2>Home</h2></div>
 
 class App extends React.Component{
+  constructor(){
+    super();
+    this.state={
+      cart:0,
+    }
+
+  };
+
+  callbackFunction = (cartData) => {
+    this.setState({cart: cartData})
+    console.log(this.state.cart)
+  }
+
+
   render(){
     return(
       <div className="App">
         <HashRouter basename='/'>
           <div>
-            <Navi/>
+            <Navi />
               <Switch>
-                <Route exact path="/" component={HomePage}/>
+                <Route exact path="/" component={() => <HomePage parentCallback={this.callbackFunction}/>}/>
                 <Route path="/login" component={LoginPage}/>
                 <Route path="/register" component={RegisterPage}/>
                 <Route path="/cart" component={CartPage}/>
@@ -39,14 +53,6 @@ class App extends React.Component{
               </Switch>
           </div>
         </HashRouter>
-        
-        
-
-
-       
-
-
-
       </div>
     )
   }

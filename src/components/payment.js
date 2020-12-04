@@ -35,13 +35,7 @@ export default class Payment extends React.Component{
                     Failed to load
                 </header>
             </div>
-
         )
-
-
-
-
-
     }
     else{
         return(
